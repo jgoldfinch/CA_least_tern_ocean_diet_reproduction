@@ -9,7 +9,7 @@ A repository to recreate the analysis in the Mills et al. (in prep) publication 
 
 ## Data files needed to run:
 * SEM_data_yearly.csv
-* Hosted on Zenodo.org
+* Hosted on https://urldefense.com/v3/__https://doi.org/10.5281/zenodo.20435101__;!!H7yp__TR!YTbYySw4syOOWDbjLMqonqvCo8O5jtII6OXHb6SuNQK5gJzxR2LNIFUluxJsZ6cfIfIoWTqRyUNdwxb3QXz4HQg$
 
 
 ## Complete the following steps in this order:
