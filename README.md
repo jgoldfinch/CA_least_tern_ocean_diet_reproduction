@@ -1,7 +1,7 @@
 <img width="960" height="768" alt="image" src="https://github.com/user-attachments/assets/96a49d23-d79f-4ad3-86c2-23a4e5d046e2" />
 
 
-# CA_least_tern_ocean_diet_reproduction
+# California least tern (*Sternula antillarum browni*) ocean, diet, and reproduction analysis
 A repository to recreate the analysis in the Mills et al. (in prep) publication examining the influence of ocean conditions on California least tern (Sternula antillarum browni) diet and reproductive success.
 
 ## Programs needed to run:
