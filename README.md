@@ -3,7 +3,7 @@
 *Photo credit: U.S. Fish and Wildlife Service, National Conservation Training Center Pubilcations and Training Material*
 
 # California least tern (*Sternula antillarum browni*) ocean, diet, and reproduction analysis
-A repository to recreate the analysis in the Mills et al. (in prep) publication examining the influence of ocean conditions on California least tern (Sternula antillarum browni) diet and reproductive success.
+A repository to recreate the analysis in the Mills et al. (in prep) publication examining the influence of ocean conditions on California least tern diet and reproductive success.
 
 ## Programs needed to run:
 * R
