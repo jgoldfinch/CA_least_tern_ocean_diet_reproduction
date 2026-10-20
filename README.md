@@ -15,7 +15,7 @@ A repository to recreate the analysis in the Mills et al. (in prep) publication 
 
 ## Data files needed to run:
 * SEM_data_yearly.csv
-* Hosted on https://zenodo.org/records/20435102?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUyODkzMzNjLTFhNTgtNGMyZi04Mzg3LTE5OTUzYTk0MGEwZCIsImRhdGEiOnt9LCJyYW5kb20iOiJhOTA4MWRjZTI1N2I3ZTUxMTY4OTFmODM2YWFlYWU0OCJ9.K5O7uel84RhEU-8EhlSjMRYXMdkepqYguIAqJGzt6KJwGr3VmU-bCljsQBQM6fgKliS55C0LFmx2V9SkszEFBA
+* Hosted on https://doi.org/10.5281/zenodo.20435101
 
 
 ## Complete the following steps in this order:
