@@ -29,7 +29,7 @@ A repository to recreate the analysis in the Mills et al. (2026, In Revision) pu
 * SIMMR_sources_FINAL.csv
 * TEFs_Buckner_10.22.26.csv
 * tern_large_scale_ocean.csv
-* All data and code files hosted on https://doi.org/10.5281/zenodo.20435101
+* All data files hosted on Zenodo: https://doi.org/10.5281/zenodo.20435101
 
 
 ## Complete the following steps in this order:
